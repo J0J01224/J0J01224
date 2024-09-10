@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Yi Zhou!
 - 💻 I'm a M.S student at Southwest Jiaotong University
 - 🔭 I’m currently learning and working on multi-view learning
-- 📫 Email me at: [1254177606@qq.com](mailto:1254177606@qq.com)
+- 📫 Email me at: [yizhou1224@foxmail.com](mailto:yizhou1224@foxmail.com)
 - Please feel free to open an issue or drop me an email when you have problems about my repos. Pull requests are also welcome😉!
 <!--
 **J0J01224/J0J01224** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
